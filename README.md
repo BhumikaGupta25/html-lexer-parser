@@ -29,6 +29,7 @@ Clone this repository:
 git clone https://github.com/your-username/html-lexer-parser.git
 cd html-lexer-parser
 ```
+---
 
 ### Requirements:
 pip install ply
