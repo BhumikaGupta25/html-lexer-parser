@@ -26,7 +26,7 @@ This project was created to learn and demonstrate how lexers and parsers work un
 
 Clone this repository:
 ```bash
-git clone https://github.com/your-username/html-lexer-parser.git
+git clone https://github.com/BhumikaGupta/html-lexer-parser.git
 cd html-lexer-parser
 ```
 ---
