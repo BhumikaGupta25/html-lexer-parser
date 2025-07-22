@@ -17,12 +17,12 @@ This project was created to learn and demonstrate how lexers and parsers work un
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 - Python 3.x
 - PLY (`ply.lex` and `ply.yacc`)
 ---
 
-## 🛠️ Setup
+## Setup
 
 Clone this repository:
 ```bash
@@ -31,5 +31,5 @@ cd html-lexer-parser
 ```
 ---
 
-### Requirements:
+## Requirements:
 pip install ply
